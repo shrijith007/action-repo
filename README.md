@@ -3,8 +3,8 @@ The repository , of which the actions are going to updated  through Webhooks.
 
 Webhook section:
 
-1. Use ngrok to create a publick link.
-2. Use the link the webhook section for linking.
+1. Use ngrok to create a public link.
+2. Use the link in webhook section for linking.
 
 
 Database:
